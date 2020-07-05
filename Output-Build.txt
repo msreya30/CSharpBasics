@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: AssemblyThree, Configuration: Debug Any CPU ------
+2>------ Build started: Project: CSharpBasics, Configuration: Debug Any CPU ------
+2>CSharpBasics -> F:\Shreya\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.0\CSharpBasics.dll
+1>AssemblyThree -> F:\Shreya\CSharpBasics\AssemblyThree\bin\Debug\netcoreapp2.0\AssemblyThree.dll
+3>------ Build started: Project: Assembyoneee, Configuration: Debug Any CPU ------
+3>Assembyoneee -> F:\Shreya\CSharpBasics\AssemblyFour\bin\Debug\netcoreapp2.0\Assembyoneee.dll
+========== Build: 3 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
